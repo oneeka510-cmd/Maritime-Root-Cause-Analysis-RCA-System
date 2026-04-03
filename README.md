@@ -180,7 +180,7 @@ http://localhost:8000/docs
 
 - **GPT over embeddings** — short database labels made semantic similarity ineffective; GPT's world knowledge bridges the gap
 - **SQL over vector DB** — structured hierarchical data is better served by SQL queries than vector search
-- **Few-shot prompting over fine-tuning** — with ~500 records per year, few-shot is more practical than fine-tuning
+- **Few-shot prompting over fine-tuning** — with ~100 records per year, few-shot is more practical than fine-tuning
 - **Vessel-specific feedback first** — incidents on the same vessel are more likely to be similar
 
 ---
